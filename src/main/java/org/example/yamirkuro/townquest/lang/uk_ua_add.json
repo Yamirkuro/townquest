@@ -1,0 +1,8 @@
+{
+  "gui.townquest.tip.issued_by": "Видав: %s",
+  "gui.townquest.tip.table_pos": "Стіл: %s",
+  "gui.townquest.tip.chest_pos": "Сундук: %s",
+  "gui.townquest.tip.chest_count": "Сундуків здачі: %s",
+  "gui.townquest.tip.no_chest": "Сундук здачі не прив'язано",
+  "gui.townquest.tip.turn_in_owner": "Здача: перевірка власником"
+}

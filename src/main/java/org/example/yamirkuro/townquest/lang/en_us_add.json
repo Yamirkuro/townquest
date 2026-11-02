@@ -1,0 +1,8 @@
+{
+  "gui.townquest.tip.issued_by": "Issued by: %s",
+  "gui.townquest.tip.table_pos": "Table: %s",
+  "gui.townquest.tip.chest_pos": "Chest: %s",
+  "gui.townquest.tip.chest_count": "Turn-in chests: %s",
+  "gui.townquest.tip.no_chest": "No turn-in chest bound",
+  "gui.townquest.tip.turn_in_owner": "Turn-in: owner review"
+}

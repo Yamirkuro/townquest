@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClaudeCodeTabState">
+    <option name="tabSessions">
+      <map>
+        <entry key="0">
+          <value>
+            <TabSessionState>
+              <option name="projectPath" value="C:\Users\darkw\IdeaProjects\TownQuest" />
+              <option name="provider" value="claude" />
+              <option name="sessionId" value="d4bb81f5-6ddb-4a8d-9f19-9b9ec600649a" />
+              <option name="cwd" value="C:\Users\darkw\IdeaProjects\TownQuest" />
+              <option name="model" value="claude-sonnet-5[1m]" />
+              <option name="permissionMode" value="default" />
+            </TabSessionState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
